@@ -36,7 +36,7 @@ function App() {
       </div>
 
       <div className="parallax">
-        <h2 id="text" ref={textRef}>Parallax Website</h2>
+        <h2 id="text" ref={textRef}>All Hallow's Eve </h2>
         <img src="/tree-left.png" ref={treeLeftRef} id="tree-left" alt="Tree Left" />
         <img src="/tree-right.png" ref={treeRightRef} id="tree-right" alt="Tree Right" />
         <img src="/gate-left.png" ref={gateLeftRef} id="gate-left" alt="Gate Left" />
@@ -45,64 +45,75 @@ function App() {
       </div>
 
       <div className="sec">
-        <h2>Parallax Scrolling Website</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel commodi dicta eum distinctio quis quidem vero iure debitis suscipit laborum omnis ipsa unde quod minus nisi obcaecati, nam maxime rerum.
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa dolorem pariatur officiis eum sint ut earum accusantium harum, quo tempore ea omnis impedit vero quae porro est qui libero ab.
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Blanditiis accusamus quae libero atque ea minima, possimus officiis id rem dignissimos nulla ad nobis natus nisi. Modi magnam magni unde odio?
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis quam nostrum quia dolorum, ipsam, incidunt debitis aliquid obcaecati, porro eligendi esse quibusdam. Quisquam, vitae molestias rerum deserunt porro voluptates tempore!
-          <br />
-          <br />
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repudiandae consectetur, sit excepturi reiciendis error nisi delectus eaque aut atque impedit quas officia quos ratione velit modi ipsa dicta, illo labore.
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem eveniet dolores adipisci qui, atque temporibus soluta doloribus ea a ut impedit porro, modi vitae itaque, corrupti commodi amet est iusto.
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam nisi eos pariatur amet aperiam consequatur incidunt voluptas saepe officiis, et modi sapiente optio sed ipsa cum nulla tempore dicta sint.
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas quia voluptatem, inventore voluptate vero, earum deleniti minima enim officiis, facilis ullam hic ipsam. Minus dicta quidem mollitia consectetur tenetur placeat?
-          <br />
-          <br />
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae magni assumenda voluptatem nesciunt numquam suscipit laudantium, tempore qui saepe velit maxime ullam distinctio earum labore voluptatum debitis iusto fugit sint.
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, voluptate numquam corrupti assumenda, vel dolore perferendis aut consequuntur sit nihil enim ipsum hic corporis repellendus reprehenderit, odit eos non officia?
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam nobis facere quod animi nam harum laudantium. Eveniet id magni eaque esse, dolorum sed error omnis repellendus ipsum voluptatum fugit quo.
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit facilis minima a? Voluptatem a quam temporibus odio qui repellat nihil, praesentium rerum neque obcaecati debitis officia ea delectus nesciunt? Iure?
-          
+        <h2>Halloween</h2>
+        <p>
+          Halloween, celebrated on October 31st, has its origins in the ancient Celtic festival of Samhain. The Celts believed that on this night, the boundary between the living and the dead was blurred, allowing spirits to roam the Earth. To ward off these spirits, they built bonfires, wore disguises, and performed rituals. Over time, the festival merged with Christian traditions, leading to the establishment of All Hallows’ Eve, which later became Halloween. Irish and Scottish immigrants brought Halloween customs to North America, where they evolved into modern celebrations.
+          <br /><br />
+
+          Today, Halloween is widely recognized for its fun and spooky traditions, including trick-or-treating, costume parties, haunted houses, and pumpkin carving. The practice of trick-or-treating stems from medieval souling, where people went door to door seeking food in exchange for prayers. The carving of jack-o’-lanterns originates from an Irish folktale about Stingy Jack. Symbols like black cats, witches, ghosts, and skeletons add to the eerie atmosphere, while horror films and themed events enhance the holiday's popularity.
+          <br /><br />
+          Halloween has grown into a multi-billion-dollar industry, with retailers selling costumes, decorations, and candy months in advance. Despite some controversies, such as concerns over safety and cultural appropriation in costumes, Halloween continues to be a beloved holiday that fosters creativity and community engagement. Whether through spooky decorations, festive gatherings, or scary movies, Halloween remains a night of excitement and mystery for people of all ages.
+          <br /><br />
+          With the spread of Christianity, the Church sought to replace pagan festivals with Christian observances. In the 9th century, Pope Gregory III designated November 1st as All Saints' Day (also known as All Hallows' Day) to honor all saints and martyrs. The evening before, October 31st, became known as All Hallows’ Eve, which later evolved into Halloween. Despite efforts to Christianize the holiday, many of the original pagan customs persisted, blending with Christian traditions over time.
+          Despite its popularity, Halloween has faced criticism and controversy over the years. Some religious groups oppose the holiday due to its pagan origins and perceived association with the occult. Additionally, concerns about safety, such as tampered candy, cultural appropriation in costumes, and excessive commercialization, have sparked debates about the ethical aspects of Halloween celebrations.
         </p>
       </div>
 
       <div className="parallax-section parallax-bg">
         <Parallax speed={-10}>
-          <h1 className="title">Parallax World</h1>
+          <h1 className="title">Halloween wraps fear in innocence, As though it were a slightly sour sweet. <br /> Let terror, then, be turned into a treat</h1>
         </Parallax>
       </div>
 
       <div className="third">
-        <h2></h2>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor neque dolores ipsam magni expedita consectetur consequatur architecto recusandae, illum dolorum eius nemo totam qui possimus sit ratione veniam voluptas? Nulla!
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum maxime ad, quo exercitationem veritatis fugit incidunt illum animi, quasi ratione, quam unde nesciunt cum sunt cupiditate! Quisquam dicta aliquam accusamus.</p>
+        <h2>Trick-or-Treating</h2>
+        <p>
+        One of the most well-known Halloween traditions, trick-or-treating, has its origins in the medieval practice of "souling." During All Souls' Day, the poor would go door to door, offering prayers for the dead in exchange for food, known as "soul cakes." Over time, this practice evolved into "guising," where children dressed in costumes and performed tricks, songs, or jokes in exchange for treats. The custom eventually became trick-or-treating in North America, where children go from house to house collecting candy.
+        </p>
       </div>
 
       <div className="parallax-section parallax-content">
         <Parallax speed={5}>
-          <h2 className="subtitle">Scroll Down for More</h2>
+          <h2 className="subtitle">There is nothing funny about Halloween. <br />This sarcastic festival reflects, rather,<br /> an infernal demand for revenge by children on the adult world.</h2>
         </Parallax>
       </div>
 
-      <div className="third">
-        <h2></h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet exercitationem delectus magni quos mollitia obcaecati cum dolore laborum distinctio, voluptas unde. Similique, laboriosam sit totam commodi distinctio sunt sint veniam.
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error delectus perferendis nobis nemo deleniti atque, dignissimos possimus ex et doloribus, deserunt reprehenderit quae quidem quaerat eligendi. Hic repellat enim quisquam.
+      <div className="fourth">
+        <h2>Jack-o’-Lanterns</h2>
+        <p>
+        The tradition of carving pumpkins into jack-o’-lanterns originates from an Irish folktale about "Stingy Jack," a man who tricked the Devil and was condemned to roam the Earth with only a carved-out turnip lantern. When Irish immigrants arrived in America, they found pumpkins to be more abundant and easier to carve than turnips, leading to the modern practice of creating jack-o’-lanterns.
+
         </p>
       </div>
 
       <div className="parallax-section parallax-end">
         <Parallax speed={10}>
-          <h2 className="subtitle">Hope You Liked It!</h2>
+          <h2 className="subtitle">Jack-o'-lantern: a symbol of spooky and sweet.</h2>
         </Parallax>
       </div>
 
-      <div className="third">
-        <h2></h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet exercitationem delectus magni quos mollitia obcaecati cum dolore laborum distinctio, voluptas unde. Similique, laboriosam sit totam commodi distinctio sunt sint veniam.
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error delectus perferendis nobis nemo deleniti atque, dignissimos possimus ex et doloribus, deserunt reprehenderit quae quidem quaerat eligendi. Hic repellat enim quisquam.
-        </p>
-      </div>
+      <section class="footer" id="footer">
+        <div class="contact_heading">
+            <h1>Follow Us On</h1>
+        </div>
+        <div class="icon_set">
+            <div class="icon">
+                <a href=""><i class="fa-brands fa-instagram fa-2x"></i></a>
+            </div>
+            <div class="icon">
+                <a href=""><i class="fa-brands fa-facebook fa-2x"></i></a>
+            </div>
+            <div class="icon">
+                <a href=""><i class="fa-brands fa-x-twitter fa-2x"></i></a>
+            </div>
+            <div class="icon">
+                <a href=""><i class="fa-brands fa-whatsapp fa-2x"></i></a>
+            </div>
+        </div>
+        <div class="contact_heading">
+            <p> &#169; 2025 My Website. All rights reserved.</p>
+        </div>
+    </section>
     </ParallaxProvider>
   );
 }
