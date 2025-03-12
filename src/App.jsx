@@ -96,6 +96,13 @@ function App() {
           <h2 className="subtitle">Hope You Liked It!</h2>
         </Parallax>
       </div>
+
+      <div className="third">
+        <h2></h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet exercitationem delectus magni quos mollitia obcaecati cum dolore laborum distinctio, voluptas unde. Similique, laboriosam sit totam commodi distinctio sunt sint veniam.
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error delectus perferendis nobis nemo deleniti atque, dignissimos possimus ex et doloribus, deserunt reprehenderit quae quidem quaerat eligendi. Hic repellat enim quisquam.
+        </p>
+      </div>
     </ParallaxProvider>
   );
 }

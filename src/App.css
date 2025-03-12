@@ -10,7 +10,6 @@ body {
   overflow-x: hidden;
   background-color: #020912;
   scroll-behavior: smooth;
-  background:url('https://mrwallpaper.com/images/hd/halloween-haunted-house-laptop-art-eh1ch3uapuplgg1h.jpg');
 }
 
 /* Header */
@@ -138,8 +137,9 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 600px;
+  height: 100vh;
   width: 100%;
+  background-attachment: fixed;
 }
 
 .parallax-content {
@@ -147,8 +147,9 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 600px;
+  height: 100vh;
   width: 100%;
+  background-attachment: fixed;
 }
 
 .parallax-end {
@@ -156,8 +157,9 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 600px;
+  height: 100vh;
   width: 100%;
+  background-attachment: fixed;
 }
 
 /* Text Styling */
